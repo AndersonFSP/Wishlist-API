@@ -1,0 +1,48 @@
+node_modules/
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# TypeScript
+*.tsbuildinfo
+
+# Jest
+coverage/
+jest-html-reporters-*.html
+
+# VSCode settings
+.vscode/
+
+# Optional npm cache directory
+.npm/
+
+# Debugger configurations
+.vscode/launch.json
+.vscode/tasks.json
+
+# IDEs and editors
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+*.tmp
+*.temp
